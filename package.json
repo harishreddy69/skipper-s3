@@ -30,14 +30,14 @@
   "homepage": "https://github.com/balderdashy/skipper-s3",
   "dependencies": {
     "@sailshq/lodash": "^3.10.2",
-    "aws-sdk": "2.391.0",
+    "aws-sdk": "^2.1590.0",
     "flaverr": "^1.9.2",
     "mime": "2.4.2"
   },
   "devDependencies": {
+    "eslint": "4.19.1",
     "mocha": "3.0.2",
-    "skipper-adapter-tests": "^2.0.0-0",
-    "eslint": "4.19.1"
+    "skipper-adapter-tests": "^2.0.0-0"
   },
   "engines": {
     "node": ">=8"
